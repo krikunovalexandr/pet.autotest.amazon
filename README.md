@@ -1,1 +1,1 @@
-# autocom
+# pet.autotest.amazon
